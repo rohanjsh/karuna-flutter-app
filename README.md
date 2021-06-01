@@ -1,6 +1,9 @@
-# karuna_flutter_app
+# Karuna Template in FLutter - PathCheck Foundation
 
-A new Flutter project.
+Designed in Figma
+
+https://user-images.githubusercontent.com/35066779/120250119-9ece3b80-c29a-11eb-8773-968367e3621b.mov
+
 
 ## Getting Started
 
@@ -15,5 +18,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Preview
-https://user-images.githubusercontent.com/35066779/117543289-c6363d80-b039-11eb-8031-f781955f222a.mov
+
