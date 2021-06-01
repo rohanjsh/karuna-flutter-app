@@ -1,4 +1,4 @@
-# Karuna Template in FLutter - PathCheck Foundation
+# Karuna Template in Flutter - PathCheck Foundation
 
 Designed in Figma
 
